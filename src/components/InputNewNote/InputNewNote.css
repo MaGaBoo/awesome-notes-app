@@ -1,0 +1,8 @@
+.input-new-note input {
+    outline: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0 0 10px #fff;
+    margin-right: 5px
+}

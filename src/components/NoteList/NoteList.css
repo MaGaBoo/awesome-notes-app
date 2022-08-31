@@ -1,0 +1,9 @@
+.notes-list {
+    padding: 10px
+}
+
+.notes-list div {
+    margin-top: 5px;
+    padding: 10px 5px;
+    background-color: #FFFFFF
+}
